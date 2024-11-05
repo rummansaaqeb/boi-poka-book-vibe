@@ -22,4 +22,4 @@ const addToWishlist = (id) => {
     }
 }
 
-export { addToWishlist }
+export { addToWishlist, getStoredWishlist }
